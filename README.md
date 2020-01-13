@@ -32,8 +32,8 @@ Talk In Korean : 한국어 전화 학습 매칭 사이트  (JSP&amp;SERVLET,JDBC
 
 ### Teacher's Details   
 #### 수강생 수업후기 및 선생님 정보 확인 후 수업 신청  
-<img width="1440" alt="스크린샷 2019-12-19 오후 6 00 21" src="https://user-images.githubusercontent.com/48319827/71160734-6fd12f00-228b-11ea-9cb9-3668ee758c40.png">
-<img width="1440" alt="스크린샷 2019-12-19 오후 6 00 59" src="https://user-images.githubusercontent.com/48319827/71160735-6fd12f00-228b-11ea-8f45-7cae111d18be.png">
+<img width="1440" alt="스크린샷 2019-12-19 오후 6 00 21" src="https://user-images.githubusercontent.com/48319827/72275111-a32b9180-3670-11ea-8542-9a18dca45ca6.png">
+<img width="1440" alt="스크린샷 2019-12-19 오후 6 00 59" src="https://user-images.githubusercontent.com/48319827/72275124-aaeb3600-3670-11ea-96b9-15aa711c0388.png">
 
 ### Apply for lesson 
 <img width="1440" alt="스크린샷 2019-12-19 오후 6 02 49" src="https://user-images.githubusercontent.com/48319827/71160736-6fd12f00-228b-11ea-8d51-305aeb60aa09.png">
@@ -52,7 +52,7 @@ Talk In Korean : 한국어 전화 학습 매칭 사이트  (JSP&amp;SERVLET,JDBC
   
 ### Mypage - Lesson Detail      
 #### 수업 상세 정보 기록 및 후기 작성         
-<img width="1440" alt="스크린샷 2019-12-19 오후 6 06 17" src="https://user-images.githubusercontent.com/48319827/71160741-7069c580-228b-11ea-8778-7311a0f5d417.png">
+<img width="1440" alt="스크린샷 2019-12-19 오후 6 06 17" src="https://user-images.githubusercontent.com/48319827/72274752-154fa680-3670-11ea-9ef4-42c17dc734f5.png">
 <img width="1440" alt="스크린샷 2019-12-19 오후 6 06 45" src="https://user-images.githubusercontent.com/48319827/71160744-71025c00-228b-11ea-82b9-23807d38c65f.png">
 <img width="1440" alt="스크린샷 2019-12-19 오후 6 07 18" src="https://user-images.githubusercontent.com/48319827/71160745-71025c00-228b-11ea-9587-18559dc7790b.png">   
   
