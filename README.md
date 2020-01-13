@@ -59,3 +59,30 @@ Talk In Korean : 한국어 전화 학습 매칭 사이트  (JSP&amp;SERVLET,JDBC
 ### Mypage - Update user information      
 #### 개인 정보 수정        
 <img width="1440" alt="스크린샷 2019-12-19 오후 6 08 01" src="https://user-images.githubusercontent.com/48319827/71160747-71025c00-228b-11ea-8616-ffbb88c3794e.png">
+
+
+### Level Test      
+#### 초급/중급/고급 중 선택 후 레벨테스트 응시
+<img width="1440" alt="스크린샷 2020-01-14 오전 1 12 01" src="https://user-images.githubusercontent.com/48319827/72273371-95c0d800-366d-11ea-90c9-e34423a57927.png">
+<img width="1440" alt="스크린샷 2020-01-14 오전 1 12 59" src="https://user-images.githubusercontent.com/48319827/72273381-9a858c00-366d-11ea-987d-c1634dacf2e6.png">  
+
+#### 중급 레벨테스트지  
+<img width="1440" alt="스크린샷 2020-01-14 오전 1 12 01" src="https://user-images.githubusercontent.com/48319827/72273322-804bae00-366d-11ea-9e2d-7d456fadd434.png">  
+
+### Results page      
+#### 응시한 난이도 별 평균 점수와 비교     
+<img width="1440" alt="스크린샷 2020-01-14 오전 1 15 16" src="https://user-images.githubusercontent.com/48319827/72273400-9fe2d680-366d-11ea-99fa-61e27fec39a3.png">
+<img width="1440" alt="스크린샷 2020-01-14 오전 1 15 35" src="https://user-images.githubusercontent.com/48319827/72273427-abce9880-366d-11ea-9ca3-427cc6f6136b.png">
+<img width="1440" alt="스크린샷 2020-01-14 오전 1 15 55" src="https://user-images.githubusercontent.com/48319827/72273444-b25d1000-366d-11ea-8e0b-4b62dc4dd7fb.png">  
+
+### Before&amp;After  page        
+#### 수강 전 과 수강 후 응시 점수 비교
+##### 응시 기록 선택 후 비교   
+<img width="1440" alt="스크린샷 2020-01-14 오전 1 16 33" src="https://user-images.githubusercontent.com/48319827/72273452-b5f09700-366d-11ea-9b34-7165746a3d34.png">
+
+<img width="1440" alt="스크린샷 2020-01-14 오전 1 17 11" src="https://user-images.githubusercontent.com/48319827/72273456-b8eb8780-366d-11ea-90dc-9fd22b7a6937.png">
+<img width="1440" alt="스크린샷 2020-01-14 오전 1 17 44" src="https://user-images.githubusercontent.com/48319827/72273464-bb4de180-366d-11ea-95ff-c65fd186a4c1.png">
+<img width="1440" alt="스크린샷 2020-01-14 오전 1 18 14" src="https://user-images.githubusercontent.com/48319827/72273471-bee16880-366d-11ea-8b89-efad0e754c2f.png">
+
+
+
